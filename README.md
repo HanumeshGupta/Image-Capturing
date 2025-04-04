@@ -61,7 +61,7 @@ This project focuses on **image capturing and description** using **LSTM-based T
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Image_Capturing.git
+   git clone https://github.com/HanumeshGupta/Image-Capturing.git
    cd Image_Capturing
    ```
 2. **Install dependencies**
